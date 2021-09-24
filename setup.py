@@ -8,7 +8,7 @@ USER_NAME = "kkc11"
 
 setuptools.setup(
     name=f"{PROJECT_NAME}-{USER_NAME}",
-    version="0.0.1",
+    version="0.0.2",
     author="kkc",
     author_email="kkchaudhary11@gmail.com",
     description="it is a implemenation of preceptron",
